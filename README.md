@@ -1,2 +1,2 @@
 # yılan oyunu 
- algoritma final ödevi
+ algoritma 2 final ödevi
